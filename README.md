@@ -4,4 +4,4 @@
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| Dominik Goczał          | `{E8708210-374B-4D68-B919-9F63EC2699E5}` |
+| Dominik Goczał          | `{CBB57F62-BA72-40A4-BCCD-ADF43079F979}` |
